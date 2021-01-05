@@ -1,7 +1,7 @@
 # votocol
 Open online voting protocol
 
-[#o_que_é_votocol](LEIAME em português)
+[LEIAME em português](#o_que_é_votocol)
 
 Welcome to the home of Votocol.
 
