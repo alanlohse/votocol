@@ -12,11 +12,14 @@ Votocol is an attempt to create a secure way to vote online that is auditable. I
 At the moment, the only language available is brazilian portuguese.
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
-
-
-#LEIAME em Porguguês
+# LEIAME em Porguguês
 
 Bem-vindo à casa da Votocol.
 
