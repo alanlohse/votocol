@@ -34,5 +34,5 @@ No momento, o único idioma disponível é o português brasileiro.
 
 ## Status atual
 A primeira versão foi lançada, mas ainda precisa de algumas correções e revisões. Mas todas as ideias foram discutidas e estão aí.
-[Baixe a versão 0.9.0] (https://github.com/alanlohse/votocol/releases/download/v0.9/votocol_0.9.0.pdf)
+[Baixe a versão 0.9.0](https://github.com/alanlohse/votocol/releases/download/v0.9/votocol_0.9.0.pdf)
 
