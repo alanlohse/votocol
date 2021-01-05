@@ -11,6 +11,9 @@ Votocol is an attempt to create a secure way to vote online that is auditable. I
 ## Translations
 At the moment, the only language available is brazilian portuguese.
 
+## Current status
+The first version was released, but it still need some fixes and reviews. But all ideas were discussed and are there.
+[Download the version 0.9.0](https://github.com/alanlohse/votocol/releases/download/v0.9/votocol_0.9.0.pdf)
 
 <br>
 <br>
@@ -28,3 +31,8 @@ O Votocol é uma tentativa de criar uma maneira segura de votar online que seja 
 
 ## Traduções
 No momento, o único idioma disponível é o português brasileiro.
+
+## Status atual
+A primeira versão foi lançada, mas ainda precisa de algumas correções e revisões. Mas todas as ideias foram discutidas e estão aí.
+[Baixe a versão 0.9.0] (https://github.com/alanlohse/votocol/releases/download/v0.9/votocol_0.9.0.pdf)
+
