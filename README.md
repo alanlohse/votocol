@@ -11,6 +11,13 @@ Votocol is an attempt to create a secure way to vote online that is auditable. I
 ## Translations
 At the moment, the only language available is brazilian portuguese.
 
+
+
+
+
+
+#LEIAME em Porguguês
+
 Bem-vindo à casa da Votocol.
 
 ## O que é votocol?
