@@ -1,0 +1,15 @@
+{
+  "name": "votocol",
+  "version": "0.9.0",
+  "description": "Um protocolo de votação online",
+  "author": "Alan N. Lohse",
+  "license": "BSD-3-Clause",
+  "repository": "alanlohse/votocol",
+  "scripts": {
+    "build": "build_votocol"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "md-to-pdf": "^3.1.2"
+  }
+}
